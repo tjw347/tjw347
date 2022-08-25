@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tjw347 A.K.A. Tim Wilding
--    I'm a retired developer and network admin., and now footle 
--    around with Arduino, ESP32, Lazarus, Python and BASH scripting.
+-    I'm a developer and network admin., and now footle 
+-    around at home with Arduino, ESP32, Lazarus, Python and BASH scripting.
 
 
 <!---
